@@ -81,13 +81,13 @@
       "id":"80",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/dibujos1/1.png",
       "name":"Dibujos 1",
-      "visible":false
+      "visible":true
    },
    {
       "id":"81",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/dibujos2/1.png",
       "name":"Dibujos 2",
-      "visible":false
+      "visible":true
    },
    {
       "id":"82",
