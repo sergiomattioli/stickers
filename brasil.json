@@ -12,12 +12,6 @@
       "visible":false
    },
    {
-      "id":"10",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/bebidas/1.png",
-      "name":"Bebidas",
-      "visible":true
-   },
-   {
       "id":"20",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/bolsonaro/1.png",
       "name":"Bolsonaro",
@@ -37,80 +31,68 @@
    },
    {
       "id":"40",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/cartoons1/1.png",
+      "name":"Cartoons 1",
+      "visible":true
+   },
+   {
+      "id":"80",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/cartoons2/1.png",
+      "name":"Cartoons 2",
+      "visible":true
+   },
+   {
+      "id":"81",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/cartoons3/1.png",
+      "name":"Cartoons 3",
+      "visible":true
+   },
+   {
+      "id":"82",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/cartoons4/1.png",
+      "name":"Cartoons 4",
+      "visible":false
+   },
+   {
+      "id":"83",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/cartoons5/1.png",
+      "name":"Cartoons 5",
+      "visible":false
+   },
+   {
+      "id":"84",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/cartoons6/1.png",
+      "name":"Cartoons 6",
+      "visible":false
+   },
+   {
+      "id":"85",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/cartoons7/1.png",
+      "name":"Cartoons 7",
+      "visible":false
+   },
+   {
+      "id":"90",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/clash1/1.png",
       "name":"Clash 1",
       "visible":false
    },
    {
-      "id":"50",
+      "id":"90",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/clash2/1.png",
       "name":"Clash 2",
       "visible":false
    },
    {
-      "id":"60",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/details/1.png",
-      "name":"Details",
+      "id":"90",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/cute/1.png",
+      "name":"Cute",
       "visible":false
    },
    {
-      "id":"64",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/deportistas1/1.png",
-      "name":"Deportistas 1",
-      "visible":false
-   },
-   {
-      "id":"65",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/deportistas2/1.png",
-      "name":"Deportistas 2",
-      "visible":false
-   },
-   {
-      "id":"70",
+      "id":"90",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/dialogs/1.png",
       "name":"Dialogs",
-      "visible":false
-   },
-   {
-      "id":"40",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/dibujos/1.png",
-      "name":"Dibujos",
-      "visible":true
-   },
-   {
-      "id":"80",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/dibujos1/1.png",
-      "name":"Dibujos 1",
-      "visible":true
-   },
-   {
-      "id":"81",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/dibujos2/1.png",
-      "name":"Dibujos 2",
-      "visible":true
-   },
-   {
-      "id":"82",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/dibujos3/1.png",
-      "name":"Dibujos 3",
-      "visible":false
-   },
-   {
-      "id":"83",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/dibujos4/1.png",
-      "name":"Dibujos 4",
-      "visible":false
-   },
-   {
-      "id":"84",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/dibujos5/1.png",
-      "name":"Dibujos 5",
-      "visible":false
-   },
-   {
-      "id":"85",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/dibujos6/1.png",
-      "name":"Dibujos 6",
       "visible":false
    },
    {
@@ -118,6 +100,12 @@
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/dogs/1.png",
       "name":"Dogs",
       "visible":false
+   },
+   {
+      "id":"10",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/drinks/1.png",
+      "name":"Drinks",
+      "visible":true
    },
    {
       "id":"100",
@@ -156,57 +144,33 @@
       "visible":false
    },
    {
-      "id":"50",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/futbolistas/1.png",
-      "name":"Futbolistas",
-      "visible":true
-   },
-   {
-      "id":"60",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/gatos/1.png",
-      "name":"Gatos",
-      "visible":true
+      "id":"121",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/games1/1.png",
+      "name":"Games 1",
+      "visible":false
    },
    {
       "id":"121",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/goodmorning/1.png",
-      "name":"Good Morning",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/games2/1.png",
+      "name":"Games 2",
       "visible":false
    },
    {
-      "id":"130",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/juegos1/1.png",
-      "name":"Juegos 1",
-      "visible":false
-   },
-   {
-      "id":"140",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/juegos2/1.png",
-      "name":"Juegos 2",
+      "id":"121",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/games3/1.png",
+      "name":"Games 3",
       "visible":false
    },
    {
       "id":"150",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/juegos3/1.png",
-      "name":"Juegos 3",
-      "visible":false
-   },
-   {
-      "id":"70",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/kpop/1.png",
       "name":"Kpop",
-      "visible":true
+      "visible":false
    },
    {
       "id":"160",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/love1/1.png",
       "name":"Love 1",
-      "visible":false
-   },
-   {
-      "id":"170",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/love2/1.png",
-      "name":"Love 2",
       "visible":false
    },
    {
@@ -222,9 +186,15 @@
       "visible":true
    },
    {
+      "id":"81",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/memes2/1.png",
+      "name":"Memes 2",
+      "visible":true
+   },
+   {
       "id":"82",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/memeslocales/1.png",
-      "name":"Memes Locales",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/memesbrasil/1.png",
+      "name":"Memes Brasil",
       "visible":true
    },
    {
@@ -240,16 +210,16 @@
       "visible":false
    },
    {
-      "id":"220",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/music/1.png",
-      "name":"Music",
-      "visible":false
-   },
-   {
       "id":"83",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/muppets/1.png",
       "name":"Muppets",
       "visible":true
+   },
+   {
+      "id":"220",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/music1/1.png",
+      "name":"Music 1",
+      "visible":false
    },
    {
       "id":"84",
@@ -259,8 +229,14 @@
    },
    {
       "id":"85",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/politicos/1.png",
-      "name":"Politicos",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/politics1/1.png",
+      "name":"Politics1",
+      "visible":true
+   },
+   {
+      "id":"85",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/politicsbrasil/1.png",
+      "name":"Politics Brasil",
       "visible":true
    },
    {
@@ -279,6 +255,12 @@
       "id":"235",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/rickandmorty2/1.png",
       "name":"Rick and Morty 2",
+      "visible":false
+   },
+   {
+      "id":"235",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/religion/1.png",
+      "name":"Religion",
       "visible":false
    },
    {
@@ -316,6 +298,12 @@
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/simpsons2/1.png",
       "name":"Simpsons 2",
       "visible":false
+   },
+   {
+      "id":"50",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/soccerplayers/1.png",
+      "name":"Soccer Players",
+      "visible":true
    },
    {
       "id":"101",
