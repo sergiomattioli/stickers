@@ -1,4 +1,11 @@
 [
+  {
+     "id":"160",
+     "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/love1/1.png",
+     "nameEN":"Love 1",
+     "namePT":"Amor 1",
+     "visible":true
+   },
    {
       "id":"5",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/animals/1.png",
@@ -14,10 +21,24 @@
       "visible":true
    },
    {
+      "id":"10",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/drinks/1.png",
+      "nameEN":"Drinks",
+      "namePT":"Bebidas",
+      "visible":true
+   },
+   {
       "id":"20",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/bolsonaro/1.png",
       "nameEN":"Bolsonaro",
       "namePT":"Bolsonaro",
+      "visible":true
+   },
+   {
+      "id":"90",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/cute/1.png",
+      "nameEN":"Cute",
+      "namePT":"Bonitinho",
       "visible":true
    },
    {
@@ -28,10 +49,10 @@
       "visible":true
    },
    {
-      "id":"30",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/cats/1.png",
-      "nameEN":"Cats",
-      "namePT":"Gatos",
+      "id":"90",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/dogs/1.png",
+      "nameEN":"Dogs",
+      "namePT":"Cachorros",
       "visible":true
    },
    {
@@ -99,30 +120,9 @@
    },
    {
       "id":"90",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/cute/1.png",
-      "nameEN":"Cute",
-      "namePT":"Bonitinho",
-      "visible":true
-   },
-   {
-      "id":"90",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/dialogs/1.png",
       "nameEN":"Dialogs",
       "namePT":"Diálogos",
-      "visible":true
-   },
-   {
-      "id":"90",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/dogs/1.png",
-      "nameEN":"Dogs",
-      "namePT":"Cachorros",
-      "visible":true
-   },
-   {
-      "id":"10",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/drinks/1.png",
-      "nameEN":"Drinks",
-      "namePT":"Bebidas",
       "visible":true
    },
    {
@@ -154,6 +154,20 @@
       "visible":true
    },
    {
+      "id":"200",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/movies1/1.png",
+      "nameEN":"Movies 1",
+      "namePT":"Filmes 1",
+      "visible":false
+   },
+   {
+      "id":"210",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/movies2/1.png",
+      "nameEN":"Movies 2",
+      "namePT":"Filmes 2",
+      "visible":false
+   },
+   {
       "id":"110",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/fortnite/1.png",
       "nameEN":"Fortnite",
@@ -166,6 +180,20 @@
       "nameEN":"Freefire",
       "namePT":"Freefire",
       "visible":false
+   },
+   {
+      "id":"30",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/cats/1.png",
+      "nameEN":"Cats",
+      "namePT":"Gatos",
+      "visible":true
+   },
+   {
+      "id":"50",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/soccerplayers/1.png",
+      "nameEN":"Soccer Players",
+      "namePT":"Jogadores de Futebol",
+      "visible":true
    },
    {
       "id":"121",
@@ -196,13 +224,6 @@
       "visible":true
    },
    {
-      "id":"160",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/love1/1.png",
-      "nameEN":"Love 1",
-      "namePT":"Amor 1",
-      "visible":true
-   },
-   {
       "id":"80",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/masterchef/1.png",
       "nameEN":"MasterChef",
@@ -229,20 +250,6 @@
       "nameEN":"Memes Brasil",
       "namePT":"Memes Brasil",
       "visible":true
-   },
-   {
-      "id":"200",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/movies1/1.png",
-      "nameEN":"Movies 1",
-      "namePT":"Filmes 1",
-      "visible":false
-   },
-   {
-      "id":"210",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/movies2/1.png",
-      "nameEN":"Movies 2",
-      "namePT":"Filmes 2",
-      "visible":false
    },
    {
       "id":"83",
@@ -341,13 +348,6 @@
       "nameEN":"Simpsons 2",
       "namePT":"Simpsons 2",
       "visible":false
-   },
-   {
-      "id":"50",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/soccerplayers/1.png",
-      "nameEN":"Soccer Players",
-      "namePT":"Jogadores de Futebol",
-      "visible":true
    },
    {
       "id":"101",
