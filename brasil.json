@@ -33,55 +33,55 @@
       "id":"40",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/cartoons1/1.png",
       "name":"Cartoons 1",
-      "visible":true
+      "visible":false
    },
    {
       "id":"80",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/cartoons2/1.png",
       "name":"Cartoons 2",
-      "visible":true
+      "visible":false
    },
    {
       "id":"81",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/cartoons3/1.png",
       "name":"Cartoons 3",
-      "visible":true
+      "visible":false
    },
    {
       "id":"82",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/cartoons4/1.png",
       "name":"Cartoons 4",
-      "visible":true
+      "visible":false
    },
    {
       "id":"83",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/cartoons5/1.png",
       "name":"Cartoons 5",
-      "visible":true
+      "visible":false
    },
    {
       "id":"84",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/cartoons6/1.png",
       "name":"Cartoons 6",
-      "visible":true
+      "visible":false
    },
    {
       "id":"85",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/cartoons7/1.png",
       "name":"Cartoons 7",
-      "visible":true
+      "visible":false
    },
    {
       "id":"90",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/clash1/1.png",
       "name":"Clash 1",
-      "visible":true
+      "visible":false
    },
    {
       "id":"90",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/clash2/1.png",
       "name":"Clash 2",
-      "visible":true
+      "visible":false
    },
    {
       "id":"90",
@@ -135,31 +135,31 @@
       "id":"110",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/fortnite/1.png",
       "name":"Fortnite",
-      "visible":true
+      "visible":false
    },
    {
       "id":"120",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/freefire/1.png",
       "name":"Freefire",
-      "visible":true
+      "visible":false
    },
    {
       "id":"121",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/games1/1.png",
       "name":"Games 1",
-      "visible":true
+      "visible":false
    },
    {
       "id":"121",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/games2/1.png",
       "name":"Games 2",
-      "visible":true
+      "visible":false
    },
    {
       "id":"121",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/games3/1.png",
       "name":"Games 3",
-      "visible":true
+      "visible":false
    },
    {
       "id":"150",
@@ -201,19 +201,19 @@
       "id":"200",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/movies1/1.png",
       "name":"Movies 1",
-      "visible":true
+      "visible":false
    },
    {
       "id":"210",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/movies2/1.png",
       "name":"Movies 2",
-      "visible":true
+      "visible":false
    },
    {
       "id":"83",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/muppets/1.png",
       "name":"Muppets",
-      "visible":true
+      "visible":false
    },
    {
       "id":"220",
@@ -243,43 +243,37 @@
       "id":"90",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/religion/1.png",
       "name":"Religion",
-      "visible":true
+      "visible":false
    },
    {
       "id":"234",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/rickandmorty1/1.png",
       "name":"Rick and Morty 1",
-      "visible":true
+      "visible":false
    },
    {
       "id":"235",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/rickandmorty2/1.png",
       "name":"Rick and Morty 2",
-      "visible":true
-   },
-   {
-      "id":"235",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/religion/1.png",
-      "name":"Religion",
-      "visible":true
+      "visible":false
    },
    {
       "id":"240",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/series1/1.png",
       "name":"Series 1",
-      "visible":true
+      "visible":false
    },
    {
       "id":"250",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/series2/1.png",
       "name":"Series 2",
-      "visible":true
+      "visible":false
    },
    {
       "id":"260",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/series3/1.png",
       "name":"Series 3",
-      "visible":true
+      "visible":false
    },
    {
       "id":"100",
@@ -291,13 +285,13 @@
       "id":"270",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/simpsons1/1.png",
       "name":"Simpsons 1",
-      "visible":true
+      "visible":false
    },
    {
       "id":"280",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/simpsons2/1.png",
       "name":"Simpsons 2",
-      "visible":true
+      "visible":false
    },
    {
       "id":"50",
