@@ -47,5 +47,54 @@
       "nameEN":"Love 7",
       "namePT":"Amor 7",
       "visible":true
+   },
+   {
+      "id":"80",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/love8/1.png",
+      "nameEN":"Love 8",
+      "namePT":"Amor 8",
+      "visible":true
+   },
+   {
+      "id":"90",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/love9/1.png",
+      "nameEN":"Love 9",
+      "namePT":"Amor 9",
+      "visible":true
+   },
+   {
+      "id":"100",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/love10/1.png",
+      "nameEN":"Love 10",
+      "namePT":"Amor 10",
+      "visible":true
+   },
+   {
+      "id":"110",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/love11/1.png",
+      "nameEN":"Love 11",
+      "namePT":"Amor 11",
+      "visible":true
+   },
+   {
+      "id":"120",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/love12/1.png",
+      "nameEN":"Love 12",
+      "namePT":"Amor 12",
+      "visible":true
+   },
+   {
+      "id":"130",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/love13/1.png",
+      "nameEN":"Love 13",
+      "namePT":"Amor 13",
+      "visible":true
+   },
+   {
+      "id":"140",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/love14/1.png",
+      "nameEN":"Love 14",
+      "namePT":"Amor 14",
+      "visible":true
    }
 ]
