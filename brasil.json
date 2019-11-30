@@ -210,6 +210,13 @@
       "visible":true
    },
    {
+      "id":"210",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/flamengo/1.png",
+      "nameEN":"Flamengo",
+      "namePT":"Flamengo",
+      "visible":true
+   },
+   {
       "id":"110",
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/fortnite/1.png",
       "nameEN":"Fortnite",
@@ -228,6 +235,20 @@
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/cats/1.png",
       "nameEN":"Cats",
       "namePT":"Gatos",
+      "visible":true
+   },
+   {
+      "id":"30",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/gremio/1.png",
+      "nameEN":"Gremio",
+      "namePT":"Gremio",
+      "visible":true
+   },
+   {
+      "id":"30",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/internacional/1.png",
+      "nameEN":"Internacional",
+      "namePT":"Internacional",
       "visible":true
    },
    {
@@ -305,6 +326,13 @@
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/music1/1.png",
       "nameEN":"Music 1",
       "namePT":"Música 1",
+      "visible":true
+   },
+   {
+      "id":"84",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/palmeiras/1.png",
+      "nameEN":"Palmeiras",
+      "namePT":"Palmeiras",
       "visible":true
    },
    {
