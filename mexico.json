@@ -65,21 +65,21 @@
    {
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/dayofthedead/1.png",
       "folder":"dayofthedead",
-      "nameEN":"Day of the Dead",'
-      "nameES":"Dia de los Muertos",
+      "nameEN":"Day of the Dead",
+      "nameES":"Día de los Muertos",
       "visible":true
    },
    {
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/cartoonsmex1/1.png",
       "folder":"cartoonsmex1",
-      "nameEN":"Cartoons Mex 1",'
+      "nameEN":"Cartoons Mex 1",
       "nameES":"Dibujos 1",
       "visible":true
    },
    {
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/cartoonsmex2/1.png",
       "folder":"cartoonsmex2",
-      "nameEN":"Cartoons Mex 2",'
+      "nameEN":"Cartoons Mex 2",
       "nameES":"Dibujos 2",
       "visible":true
    },
