@@ -1,5 +1,12 @@
 [
    {
+    "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/america/1.png",
+    "folder":"america",
+    "nameEN":"America Mex",
+    "nameES":"América",
+    "visible":true
+   },
+   {
      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/amlo/1.png",
      "folder":"AMLO",
      "nameEN":"AMLO",
@@ -54,6 +61,13 @@
       "nameEN":"Chavo",
       "nameES":"Chavo",
       "visible":true
+   },
+   {
+    "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/chivas/1.png",
+    "folder":"chivas",
+    "nameEN":"Chivas Mex",
+    "nameES":"Chivas",
+    "visible":true
    },
    {
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/mealsmex/1.png",
