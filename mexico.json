@@ -175,6 +175,13 @@
       "visible":true
    },
    {
+      "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/christmas/1.png",
+      "folder":"christmas",
+      "nameEN":"Christmas",
+      "namePT":"Navidad",
+      "visible":true
+   },
+   {
       "image":"https://raw.githubusercontent.com/sergiomattioli/stickers/master/politicsmex/1.png",
       "folder":"politicsmex",
       "nameEN":"Politics Mex",
